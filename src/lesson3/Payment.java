@@ -2,7 +2,7 @@ package lesson3;
 //calculate salary payment based on working hr(standart hr, overtime)
 public class Payment {
 
-	//declare inatance variables for the values to be calculated
+	//declare instance variables for the values to be calculated
 	private double standardPay;
 	private double overtimePay;
 	private double totalPay;

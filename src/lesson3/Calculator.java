@@ -28,6 +28,8 @@ public class Calculator {
 		result = numberOne * numberTwo;
 		System.out.println(numberOne + " * " + numberTwo + " =" + result);
 	}
+	
+	
 	public static void main(String[] args) {
 		//reuse the Calculator class
 		//declare a variable of type of Calculator
